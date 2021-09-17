@@ -1,0 +1,52 @@
+body {
+	background-color: #e9ebee;
+	font-family: "tahoma", "trebuchet ms", "myriad pro regular";
+	color: #222222;
+	margin: 0;
+}
+
+.besar {
+	font-family: "arial black", "franklin gothic heavy", "arial rounded mt bold";
+}
+
+.sedang {
+	font-family: "calibri light", "antique olive", "arial narrow";
+}
+
+.atas {
+	background-color: #bdc4c9;
+	padding: 5px;
+	padding-bottom: 35px;
+	color: #3f3f3f;
+}
+
+.atastext {
+	margin-left:50px;
+}
+
+.kiri {
+	background-color: #bdc4c9;
+	position: absolute;
+	float: left;
+	width: 25%;
+	height: auto;
+	padding: 20px;
+	margin-left: 20px;
+	word-wrap: break-word;
+}
+
+.kanan {
+	position: relative;
+	float: right;
+	width:65%;
+	height: 100%;
+	padding: 20px;
+	word-wrap: break-word;
+}
+
+.biopic {
+	width: 150px;
+	height: 150px;
+	float: right;
+	margin-right: 20px;
+}
